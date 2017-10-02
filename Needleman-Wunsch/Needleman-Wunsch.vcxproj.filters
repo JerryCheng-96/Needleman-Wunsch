@@ -33,4 +33,10 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="blosum62.csv" />
+    <None Include="blosum45.csv" />
+    <None Include="P04264.fasta" />
+    <None Include="P13647.fasta" />
+  </ItemGroup>
 </Project>
